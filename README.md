@@ -1,6 +1,6 @@
 # url-shortener
 
-API REST simples em Node.js com Express, PostgreSQL e Redis para encurtamento de URL's ainda incompleto, no momento só tem a parte de gerenciamento de usuários mas o intuito é explorar um pouco melhor a parte de cloud computing, build, CI/CD, pipelines, arquitetura de software com DDD e etc se eu tiver paciência.
+API REST simples em Node.js com Express, PostgreSQL e Redis para encurtamento de URL's ainda incompleto, no momento só tem a parte de gerenciamento de usuários mas o intuito é explorar um pouco melhor a parte de cloud computing, build, CI/CD, pipelines, observabilidade, arquitetura de software com DDD e etc se eu tiver paciência.
 
 ## Tecnologias
 
