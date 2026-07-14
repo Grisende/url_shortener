@@ -95,7 +95,7 @@ Para executar as migrações do banco:
 npm run migrate -- up
 ```
 
-## Testes
+## Testes (incompleto)
 
 ```bash
 npm test
